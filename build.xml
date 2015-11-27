@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <project name="Test project" default="usage">
     <target name="usage" description="Print project help">
-        <echo>To give available project targets type ${line.separator}ant -projecthelp</echo>
+        <echo>to give available project targets type ${line.separator}ant -projecthelp</echo>
     </target>
 </project>
